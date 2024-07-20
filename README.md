@@ -1,4 +1,4 @@
--> npm init\
 -> create a .env file in root repository\
+-> npm init\
 -> npm start\
 -> go to http://localhost:3000/
